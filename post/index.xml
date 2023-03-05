@@ -22,7 +22,10 @@
       <pubDate>Tue, 10 May 2022 11:00:59 -0400</pubDate>
       
       <guid>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-2/</guid>
-      <description>Created a model for Real-time Time Series Forecasting of new COVID cases in the United States. Predictions are done using SARIMAX, XGBRegressor, and Prophet. Forecasting error is measured using MAPE, and its value is 0.3. Link to GitHub Repository</description>
+      <description>Analyzed Covid-19 trends. Covid-19 data of 223 countries is obtained by web scraping using Beautiful Soup library. State wise covid data along with vaccinate data from India is obtained through webscraping from official website.
+Insightful visualizations are obtained using seaborn and matplotlib. Geospatial analysis is done using GeoPandas.
+Created a model for Real-time Time Series Forecasting of new COVID cases in the United States.
+Predictions are done using SARIMAX, XGBRegressor, and Prophet.</description>
     </item>
     
     <item>
