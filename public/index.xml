@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, I&#39;m Sagarika Ramesh. on Sagarika Ramesh</title>
+    <link>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/</link>
+    <description>Recent content in Hi, I&#39;m Sagarika Ramesh. on Sagarika Ramesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Nov 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicting Bank Telemarketing Success</title>
+      <link>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 09 Nov 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-1/</guid>
+      <description>In the banking industry, a lot of importance is given to telemarketing as high profits are obtained with reduced costs. An intelligent decision support system(DSS) is required to efficiently help in the prediction of the client&amp;rsquo;s subscription to the deposits. This project attempts to create a tool to support the client selection decision based on telemarketing campaigns conducted by the banking industry. The classification goal of this model is to predict if the client will subscribe to a term deposit or not.</description>
+    </item>
+    
+    <item>
+      <title>Digital Marketing Analysis</title>
+      <link>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-7/</link>
+      <pubDate>Sun, 14 Aug 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-7/</guid>
+      <description>Skills and Tools used: MySQL, Python, Exploratory Data Analysis, Predictive Analysis
+Analysis of ads published by an analytics company and making certain recommendations to improve their Click-through rate. This includes analysis of Products, Product types, websites in which the ads were published, sentiment type in which the ads were published, Click Rate, age-group of viewers and gender of viewers.
+Tried to understand if there is any significant impart of sentiment type in which the ad was published, age-group of viewers or gender of viewers on the Click-through rate.</description>
+    </item>
+    
+    <item>
+      <title>COVID Tracker</title>
+      <link>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 10 May 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-2/</guid>
+      <description>Created a model for Real-time Time Series Forecasting of new COVID cases in the United States.
+Predictions are done using SARIMAX, XGBRegressor, and Prophet. Forecasting error is measured using MAPE, and its value is 0.3.
+Analyzed Covid-19 trends. Covid-19 data of 223 countries is obtained by web scraping using Beautiful Soup library. State wise covid data along with vaccinate data from India is obtained through webscraping from official website.</description>
+    </item>
+    
+    <item>
+      <title>Database Assisted Object-Retrieval 3D Room Reconstruction</title>
+      <link>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-4/</link>
+      <pubDate>Sat, 12 Mar 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-4/</guid>
+      <description>Developed a model that takes a 2D image as input and generates a 3D scene that contains corresponding 3D furniture objects. Used Mask-RCNN to extract 2D instances. Attention-driven fine-grained visual classifier is used to predict 3D model database id that best matches furniture objects and the 3D objects are retrieved. Obtained an accuracy of 95% Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Airbnb price prediction</title>
+      <link>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-6/</link>
+      <pubDate>Fri, 14 Jan 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-6/</guid>
+      <description>The model is intended to assist in the assessment of Airbnb properties and provide insights into the factors that impact their prices. The dataset is preprocessed and Exploratory Data Analysis is done on Airbnb market in NYC. Visualization is done using seaborn and matplotlib to understand the correlation between price, availability, neighborhood group and other features. Various trends of Airbnb market are analyzed. Sample visualization:
+Built regression model to predict the prices of Airbnb properties in the city.</description>
+    </item>
+    
+    <item>
+      <title>Students&#39; Adaptability Level Predictor</title>
+      <link>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-3/</link>
+      <pubDate>Tue, 11 Jan 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-3/</guid>
+      <description>Developed a model to predict students&amp;rsquo; adaptability level to online education. Built a machine learning pipeline and algorithms used are: SVC, KNeighborsClassifier, and XGBoost Classifier. Built an ANN Classifier and obtained an accuracy of 92% Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Satellite Image Classification</title>
+      <link>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-5/</link>
+      <pubDate>Tue, 13 Apr 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-5/</guid>
+      <description>The goal is to accurately categorize the images into different classes to better understand and monitor changes in the environment. Built a CNN model for Multiclass Image Classification of images captured by satellite. Obtained an accuracy of 93% Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/contact/</guid>
+      <description>You can contact me at sagarikaramesh251@gmail.com
+You can follow me on these platforms.
+Platform URL LinkedIn: https://www.linkedin.com/in/sagarika-ramesh/ GitHub: https://github.com/Sagarika-Ramesh Tableau: sagarikaramesh251@gmail.com </description>
+    </item>
+    
+  </channel>
+</rss>
