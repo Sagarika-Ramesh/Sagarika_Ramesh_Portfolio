@@ -17,7 +17,7 @@
 Developed and implemented a chatbot using the LLM that answers questions about Saatva&amp;rsquo;s products.
 Leveraged LangChain and Chroma for model fine-tuning, ensuring optimal performance and responsiveness.
 Created and uploaded a Chrome extension called &amp;ldquo;AI_Assistant&amp;rdquo;. The extension is designed to be visible in the Chrome side panel, making the AI Assistant accessible to users.
-Some of the visual representation of the AI assistant are as follows:</description>
+Utilized Gradio web-based interface for large language models (LLMs), enabling fast development.</description>
     </item>
     
     <item>
