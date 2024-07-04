@@ -6,7 +6,20 @@
     <description>Recent content in Hi, I&#39;m Sagarika Ramesh. on Sagarika Ramesh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Nov 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Dec 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development and Implementation of Product Chatbot</title>
+      <link>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-8/</link>
+      <pubDate>Thu, 14 Dec 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-8/</guid>
+      <description>Skills and Tools used: Python, Vector DB, NLP, LLM
+Developed and implemented a chatbot using the LLM that answers questions about Saatva&amp;rsquo;s products.
+Leveraged LangChain and Chroma for model fine-tuning, ensuring optimal performance and responsiveness.
+Created and uploaded a Chrome extension called &amp;ldquo;AI_Assistant&amp;rdquo;. The extension is designed to be visible in the Chrome side panel, making the AI Assistant accessible to users.
+Some of the visual representation of the AI assistant are as follows:</description>
+    </item>
+    
     <item>
       <title>Predicting Bank Telemarketing Success</title>
       <link>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/post/project-1/</link>
@@ -81,10 +94,9 @@ Built regression model to predict the prices of Airbnb properties in the city.</
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://Sagarika-Ramesh.github.io/Sagarika_Ramesh_Portfolio/contact/</guid>
-      <description>You can contact me at sagarika_ramesh@brown.edu
-Alternate email : sagarikaramesh251@gmail.com
+      <description>You can contact me at sagarikaramesh251@gmail.com
 You can follow me on these platforms.
-Platform URL LinkedIn: https://www.linkedin.com/in/sagarika-ramesh/ GitHub: https://github.com/Sagarika-Ramesh </description>
+Platform URL LinkedIn: https://www.linkedin.com/in/sagarika-ramesh/ GitHub: https://github.com/Sagarika-Ramesh Tableau: sagarikaramesh251@gmail.com </description>
     </item>
     
   </channel>
